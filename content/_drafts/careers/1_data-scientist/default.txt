@@ -1,0 +1,102 @@
+Title: Data Scientist
+
+----
+
+Text:
+
+Location: Remote
+
+​
+
+​
+
+## About Us
+ottosAI is at the forefront of the technology revolution, harnessing the power of data to drive innovation and deliver cutting-edge solutions across various industries. Our dedicated team of experts works tirelessly to solve complex challenges and transform the way businesses operate.
+
+
+We are looking for a passionate and skilled Data Scientist to join our dynamic team and contribute to our mission of making data-driven decisions the cornerstone of our product development and business strategies.
+
+ 
+
+## Position Overview
+As a Data Scientist at ottosAI, you will be part of a vibrant team responsible for analyzing large data sets to derive actionable insights and build predictive models that will have a direct impact on our company's success. You will work closely with product teams, engineers, and business stakeholders to identify opportunities for leveraging company data to drive business solutions.
+
+​
+
+ 
+
+## Key Responsibilities:
+
+​
+
+• Utilize predictive modeling to increase and optimize customer experiences, revenue generation, ad targeting, and other business outcomes.
+
+• Develop custom data models and algorithms to apply to data sets.
+
+• Use advanced statistical techniques and concepts (regression, properties of distributions, statistical tests, and proper usage, etc.) and their applications in data analysis.
+
+• Conduct A/B tests and build models to understand complex behaviors and trends.
+
+• Analyze large, complex data sets to extract insights and support decision making.
+
+• Collaborate with stakeholders across the organization to identify opportunities for leveraging company data to drive business solutions.
+
+​
+
+ 
+
+## Qualifications:
+
+​
+
+• A degree in a technical or a related field.
+
+• Proven experience as a Data Scientist; 12 or more years inclusive of years of education.
+
+• Proficiency with data mining, mathematics, and statistical analysis.
+
+• Advanced pattern recognition and predictive modeling experience.
+
+• Experience with programming languages such as SQL, Python, R, or Java.
+
+• Experience with machine learning frameworks (like Keras or TensorFlow) and libraries (like scikit-learn).
+
+• Excellent analytical and problem-solving abilities.
+
+• Strong communication skills with the ability to distill complex concepts to non-technical stakeholders.
+
+• Ability to work in a fast-paced, team-oriented environment.
+
+​
+
+ 
+
+## What We Offer:
+
+​
+
+• Competitive salary and performance-based bonuses.
+
+• Health, dental, and vision insurance.
+
+• Generous vacation and leave policy.
+
+• A dynamic, challenging, and supportive work environment.
+
+• Opportunities for professional growth and development.
+
+ 
+
+​
+
+## How to Apply
+Please send your resume, a cover letter detailing your relevant experience and why you are interested in working with ottosAI, and any relevant project or portfolio links to (link: mailto:careers@ottosai.com text: careers@ottosai.com) with the subject line "Data Scientist Application".
+
+ 
+
+
+ottosAI is an Equal Opportunity Employer. We celebrate diversity and are committed to creating an inclusive environment for all employees.
+
+----
+
+Uuid: vhiqz7fK2wAu9rqX

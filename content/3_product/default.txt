@@ -1,0 +1,20 @@
+Title: Product
+
+----
+
+Text:
+
+## Knowledge
+Any information saved in any format can be rapidly ingested into ottosAI - your customers, your website, your rules, your products, ottosAI can learn it all, in an instant. And remembers it forever.
+
+## Integrations
+CRMs, scheduling tools, payment platforms - if it has an API, ottosAI can integrate with it.  Dynamic data sharing with your existing tech is one of the key elements of the ottosAI transformation.
+
+## Voice
+ottosAI wants to talk to your customers just like you. Through reading your website, your media articles and examples of your best interactions with customers, ottosAI will use your words in your tone of voice.
+
+(image: 6dd907_4ddd7cde5f8e480b8f2c2b07a92e12c3-mv2.avif)
+
+----
+
+Uuid: XmDnKYko8NkFlEhR

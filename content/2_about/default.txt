@@ -1,0 +1,51 @@
+Title: About
+
+----
+
+Text:
+
+## Mission
+Revolutionizing patient wellbeing
+
+Our co-founders possess a deep, personal understanding of the emotional challenges faced as patients, stemming from their own journeys navigating cancer treatment trials and managing a son's diagnosis with type 1 diabetes.​
+
+With a deep understanding of these challenges, ottosAI is dedicated to creating solutions that prioritize compassion, efficiency, and empowerment. 
+
+Through our advanced GenAI technology, we aim to streamline processes, enhance communication, and improve outcomes for patients and caregivers alike.
+
+Join us in our mission to revolutionize patient care and usher in a new era of healthcare excellence.
+
+## Approach
+Building authentic relationships with generative AI
+
+In today's fast-paced world, authentic relationships are the cornerstone of successful businesses. At ottosAI, we understand the importance of genuine connections between our clients and their customers and patients. With our cutting-edge GenAI technology, we empower businesses to foster authentic relationships that are fast, reliable, convenient, and personal.
+
+### Fast Engagement
+ottosAI's Gen AI platform enables lightning-fast engagement with customers and patients. Through automated messaging and personalized interactions, ottosAI ensures timely responses to inquiries, updates, and support requests, fostering a sense of responsiveness and reliability.
+
+​### Reliable Communication
+With ottosAI, businesses can rely on consistent and accurate communication with their audience. Our advanced algorithms and data-driven approach ensure that messages are delivered reliably, minimizing errors and enhancing trust in the relationship.
+
+### Convenient Interaction
+ottosAI simplifies the interaction process for both businesses and their customers/patients. Through streamlined communication channels and intuitive interfaces, ottosAI makes it convenient for individuals to engage with businesses, fostering a positive user experience and promoting ongoing interaction.
+
+### Personalized Approach
+At ottosAI, we understand that every customer and patient is unique. That's why our Gen AI technology personalizes interactions based on individual preferences, behavior, and history. By delivering tailored messages and recommendations, ottosAI creates a personalized experience that resonates with each individual, strengthening the bond between businesses and their audience.
+
+## Summary
+ottosAI revolutionizes the way businesses build authentic relationships with their customers and patients. With our fast, reliable, convenient, and personal approach to engagement, ottosAI empowers businesses to connect with their audience in meaningful ways, driving loyalty, satisfaction, and long-term success.
+
+## Our Team
+With genuine global leaders in myriad disciplines, the ottosAI leadership team offer a unique blend of skills.
+
+Our leadership team collectively holds 2 PhD’s in Computational Astrophysics and boasts over 65 years of real world experience working for some of the biggest businesses in the world, bringing a unique blend of academic prowess and industry leadership to the table. 
+
+With a track record of groundbreaking works in Artificial Intelligence and data analysis algorithms, they've led high-performing teams globally across numerous industries. Their expertise spans creating GPU-powered solutions for supercomputers, developing AI applications for Fortune 500 companies, and crafting cloud-based platforms for cutting-edge technologies.  
+
+With a focus on customer engagement, their combined experience has resulted in transformative solutions that have delivered cost savings in the billions, and the successful launch of revenue-driving products in multiple verticals. 
+
+At ottosAI, the leadership team is dedicated to driving technology-led transformations while keeping the customer at the forefront of innovation.
+
+----
+
+Uuid: FNdZ9zatkcVw5Uvg

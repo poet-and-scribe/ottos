@@ -1,0 +1,94 @@
+Title: Solutions
+
+----
+
+Text:
+
+This will act as a landing page for all the different industries you've been in, pointing to the longer case studies. 
+
+## ottosRX (need something more clear that this is about clinical trials)
+Where it all began! ottosAI was conceived with Pharmaceutical trial recruitment, retention and regimen adherence in mind.
+
+By learning all there is to know about the patient, available trials, the care regime and the drug itself, ottosRX optimizes trial selection and orchestrates compliant engagement every time.
+
+Through the collation of data at every stage, patient, trial and drug 'fingerprints' enable forensic appraisal of trial outcomes and drive continuous learning.
+
+ottosRX - supporting vitality
+
+## ottosCares
+GPs in Europe are facing a global crisis.
+
+​
+
+Our contacts in the National Health industry spoke to us about the increasing pressure their GP surgeries and Hospitals are facing.
+
+​
+
+An aging population paired with a decreasing health care professional population is driving burned out carers and dissatisfied patients.
+
+​
+
+Our analysis shows that nearly half of the inbound traffic into GPs and Hospitals could be fully automated using ottosCARE, allowing doctors and nurses to focus on what's important.
+
+​
+
+ottosCARE - putting the care back into healthcare...
+
+
+## ottosStudio
+ottosSTUDIO
+For our lighthouse client, ottosSTUDIO was designed to enable the Studio founder to invest more time building a community and creating well being!
+
+​
+
+For our dear friend Crystal, creating a community and building a wellbeing practice was far more important than scheduling and payment processing.
+
+​
+
+Maintaining her unique tone of voice and engaging customers in the right way were paramount in our first live product.
+
+ 
+
+Now, ottosSTUDIO engages with her community, offers her products and services to the world, schedules people into her classes and takes payments - all with minimal human touch.
+
+ 
+
+ottosSTUDIO - supporting wellbeing
+
+## ottosEvent
+Italy's premier event management company needed to release their incredible event team to focus on supporting their attendees.
+
+​
+
+ottosAI experienced first hand the trials and tribulations of managing large scale, complex events in Italy.
+
+​
+
+What they saw were brilliant people spending hours on basic information sharing and scheduling so working with prestigious Italian partners, ottosEVENT was born!
+
+ 
+
+Now the basic, repetitive tasks can be automated through ottosAI leaving their super heroes to attend to their beloved attendees.
+
+ 
+
+ottosEVENT - helps people manage events, not events manage people... 
+
+## ottosCafe
+Designed to bring the power of AI to the small retail outfit.
+
+​
+
+ottosCAFE knows how you want to speak to your customers, knows what your customers want and knows what you're selling.
+
+​
+
+From proactive engagement and precise, auditable ordering to helping manage stock levels, ottosCAFE will engage with your customers, sell them what they want and process their payments!
+
+​
+
+ottosCAFE is your employee of the month, every month.
+
+----
+
+Uuid: 9r3ez8MY0BRHOaXX

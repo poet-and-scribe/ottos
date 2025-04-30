@@ -1,0 +1,13 @@
+Title: Insights
+
+----
+
+Text:
+
+Here we share some of the musings of the ottosAI founders on the various applications of our product we have designed.
+
+This will be the "bloggy" portion where things are shared.
+
+----
+
+Uuid: oFbtINcZcR4ZXt0f
