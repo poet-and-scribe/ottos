@@ -15,6 +15,25 @@ Our integration of top-tier Data Science expertise ensures a data-centric approa
 ## Partnership
 Our collaborative approach ensures thoughtful consideration and customization, delivering sustained value and alignment with your unique objectives.
 
+### What makes us different
+#### Data strategy
+ottos AI is built around data strategy. Every customer, patient, carer, and product will have a unique, accessible fingerprint for monitoring and review.
+
+#### The Truth
+ottosAI does not hallucinate, does not embellish, and does not go "off script" like so many AI solutions.
+
+#### Omni-channel
+ottosAI uses interfaces everyone already has and knows how to use: text messaging and chatting 
+
+#### Accessible AI
+ottosAI grants access to leading edge technology with no extra tech, minimal client and customer friction.
+
+#### Real-world outcomes
+Whether it's escalating, ordering refills, or scheduling events: ottosAI integrations create automated impact
+
+#### Low cost, fast response
+Optimizes human intervention, lowers unit costs, and enhances customer experience through rapid, strategic escalation.
+
 (image: 6dd907_353b3f052ff641e2bfec7b6a69413637-mv2.avif)
 
 ----

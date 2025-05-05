@@ -1,0 +1,16 @@
+Title: Contact
+
+----
+
+Text:
+
+Want to invest? Want to become a customer? Want to work with us? Want to just have a chat about the weather?
+
+Let's chat.
+
+Email: hello@ottosai.com
+
+Form:
+- name
+- email
+- message 

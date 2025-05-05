@@ -4,7 +4,7 @@ Title: Solutions
 
 Text:
 
-This will act as a landing page for all the different industries you've been in, pointing to the longer case studies. 
+This will act as a landing page for all the different industries you've been in, pointing to the longer case studies.
 
 ## ottosRX (need something more clear that this is about clinical trials)
 Where it all began! ottosAI was conceived with Pharmaceutical trial recruitment, retention and regimen adherence in mind.
@@ -12,6 +12,28 @@ Where it all began! ottosAI was conceived with Pharmaceutical trial recruitment,
 By learning all there is to know about the patient, available trials, the care regime and the drug itself, ottosRX optimizes trial selection and orchestrates compliant engagement every time.
 
 Through the collation of data at every stage, patient, trial and drug 'fingerprints' enable forensic appraisal of trial outcomes and drive continuous learning.
+
+- Risk Mitigation
+    - Enforces regulatory compliance
+    - Consistent and uniform messaging
+    - Auditable logs of every message
+- Improved outcomes
+    - Drives pharmacotherapy adherence
+    - Always available, 24/7, 365
+    - Always interacts with good bedside manner
+- Education
+    - Can ingest all of your facts and policies
+    - Send multimedia content
+    - Train, guide, remind, and assist your patients
+- Escalations
+    - Enhanced self-service optimizes Escalation
+    - Residual escalations become transactional
+    - Automated scheduling with experts
+- Operating cost
+    - Automates patient engagement
+    - Reduces errors and rework
+    - Channel shifts from voice to SMS, enabling end to end automation
+
 
 ottosRX - supporting vitality
 
@@ -47,11 +69,23 @@ For our dear friend Crystal, creating a community and building a wellbeing pract
 
 Maintaining her unique tone of voice and engaging customers in the right way were paramount in our first live product.
 
- 
+
 
 Now, ottosSTUDIO engages with her community, offers her products and services to the world, schedules people into her classes and takes payments - all with minimal human touch.
 
- 
+### The happy path
+From scanning a QR code, a prospective customer is now able to engage with Balanced studio, pay for services, schedule themselves for classes, and become part of the Balanced Studio community-- all through their phone and ottosAI.
+
+1. QR code is shared anywhere
+2. QR code scanned
+3. Wellcome message presented
+4. Ottos "sells" balanced studio
+5. New customer decides to sign up!
+6. ottos determines which package is desired
+7. We capture email and mobile
+8. We update Square and trigger a payment process
+9. Customer completes payment
+10. Now a prospective customer is a paying customer.
 
 ottosSTUDIO - supporting wellbeing
 
@@ -66,13 +100,13 @@ ottosAI experienced first hand the trials and tribulations of managing large sca
 
 What they saw were brilliant people spending hours on basic information sharing and scheduling so working with prestigious Italian partners, ottosEVENT was born!
 
- 
+
 
 Now the basic, repetitive tasks can be automated through ottosAI leaving their super heroes to attend to their beloved attendees.
 
- 
 
-ottosEVENT - helps people manage events, not events manage people... 
+
+ottosEVENT - helps people manage events, not events manage people...
 
 ## ottosCafe
 Designed to bring the power of AI to the small retail outfit.
@@ -85,7 +119,23 @@ ottosCAFE knows how you want to speak to your customers, knows what your custome
 
 From proactive engagement and precise, auditable ordering to helping manage stock levels, ottosCAFE will engage with your customers, sell them what they want and process their payments!
 
-​
+### ottosAI is not your usual AI. It's a bespoke product.
+We give your customers what they want whilst hearing the voice of your business
+
+Consistent engagement in your brand voice, and proactive engagement via SMS, creates a user firendly channel for your brand to reach your customers. 
+
+Deep data science and predictive analytics creates a window into your customer's preferences.
+
+This highlights what you need to do to drive continuous improvement in your inventory management and customer engagement.
+
+This will boost your business profile whilst removing friction for your customers.
+
+- SMS marketing hannel
+- Simple accurate ordering
+- Precise invoicing and payment
+- Optimal pricing
+- Forecasted demand
+- Global tech for local cafe ​
 
 ottosCAFE is your employee of the month, every month.
 
